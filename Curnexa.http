@@ -1,0 +1,6 @@
+@Curnexa_HostAddress = http://localhost:5136
+
+GET {{Curnexa_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
